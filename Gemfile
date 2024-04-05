@@ -38,7 +38,7 @@ gem 'jbuilder'
 # gem "kredis"
 
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
-# gem "bcrypt", "~> 3.1.7"
+gem 'bcrypt'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: %i[windows jruby]
@@ -51,6 +51,12 @@ gem 'bootsnap', require: false
 
 gem 'bullet'
 gem 'rubocop'
+gem 'rubocop-packaging'
+gem 'rubocop-performance'
+gem 'rubocop-rspec'
+gem 'rubocop-shopify'
+gem 'rubocop-thread_safety'
+gem 'ruby-lsp'
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
