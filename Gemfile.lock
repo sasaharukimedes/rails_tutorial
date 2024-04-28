@@ -161,7 +161,7 @@ GEM
     nokogiri (1.16.4-x86_64-linux)
       racc (~> 1.4)
     parallel (1.24.0)
-    parser (3.3.0.5)
+    parser (3.3.1.0)
       ast (~> 2.4.1)
       racc
     prism (0.27.0)
@@ -233,7 +233,7 @@ GEM
       rspec-mocks (~> 3.13)
       rspec-support (~> 3.13)
     rspec-support (3.13.1)
-    rubocop (1.63.3)
+    rubocop (1.63.4)
       json (~> 2.3)
       language_server-protocol (>= 3.17.0)
       parallel (~> 1.10)
@@ -271,18 +271,18 @@ GEM
       rubocop (~> 1.51)
     rubocop-thread_safety (0.5.1)
       rubocop (>= 0.90.0)
-    ruby-lsp (0.16.5)
+    ruby-lsp (0.16.6)
       language_server-protocol (~> 3.17.0)
       prism (>= 0.23.0, < 0.28)
       sorbet-runtime (>= 0.5.10782)
     ruby-progressbar (1.13.0)
     rubyzip (2.3.2)
-    selenium-webdriver (4.20.0)
+    selenium-webdriver (4.20.1)
       base64 (~> 0.2)
       rexml (~> 3.2, >= 3.2.5)
       rubyzip (>= 1.2.2, < 3.0)
       websocket (~> 1.0)
-    sorbet-runtime (0.5.11357)
+    sorbet-runtime (0.5.11361)
     sprockets (4.2.1)
       concurrent-ruby (~> 1.0)
       rack (>= 2.2.4, < 4)
@@ -299,17 +299,17 @@ GEM
     stimulus-rails (1.3.3)
       railties (>= 6.0.0)
     stringio (3.1.0)
-    tailwindcss-rails (2.4.1)
+    tailwindcss-rails (2.5.0)
       railties (>= 6.0.0)
-    tailwindcss-rails (2.4.1-aarch64-linux)
+    tailwindcss-rails (2.5.0-aarch64-linux)
       railties (>= 6.0.0)
-    tailwindcss-rails (2.4.1-arm-linux)
+    tailwindcss-rails (2.5.0-arm-linux)
       railties (>= 6.0.0)
-    tailwindcss-rails (2.4.1-arm64-darwin)
+    tailwindcss-rails (2.5.0-arm64-darwin)
       railties (>= 6.0.0)
-    tailwindcss-rails (2.4.1-x86_64-darwin)
+    tailwindcss-rails (2.5.0-x86_64-darwin)
       railties (>= 6.0.0)
-    tailwindcss-rails (2.4.1-x86_64-linux)
+    tailwindcss-rails (2.5.0-x86_64-linux)
       railties (>= 6.0.0)
     thor (1.3.1)
     timeout (0.4.1)
@@ -372,7 +372,7 @@ DEPENDENCIES
   web-console
 
 RUBY VERSION
-   ruby 3.3.0p0
+   ruby 3.3.1p55
 
 BUNDLED WITH
    2.5.9
