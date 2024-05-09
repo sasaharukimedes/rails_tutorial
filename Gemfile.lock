@@ -138,7 +138,7 @@ GEM
     minitest (5.22.3)
     msgpack (1.7.2)
     mutex_m (0.2.0)
-    net-imap (0.4.10)
+    net-imap (0.4.11)
       date
       net-protocol
     net-pop (0.1.2)
@@ -221,7 +221,7 @@ GEM
     rspec-expectations (3.13.0)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.13.0)
-    rspec-mocks (3.13.0)
+    rspec-mocks (3.13.1)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.13.0)
     rspec-rails (6.1.2)
@@ -282,7 +282,7 @@ GEM
       rexml (~> 3.2, >= 3.2.5)
       rubyzip (>= 1.2.2, < 3.0)
       websocket (~> 1.0)
-    sorbet-runtime (0.5.11369)
+    sorbet-runtime (0.5.11370)
     sprockets (4.2.1)
       concurrent-ruby (~> 1.0)
       rack (>= 2.2.4, < 4)
